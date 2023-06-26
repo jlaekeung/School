@@ -1,0 +1,22 @@
+Lowest Common Ancestor 
+You are given a general tree. You are asked to identify the lowest common ancestor of two
+nodes, i.e. the deepest ancestor of the two given nodes. All nodes only contain a unique
+number ranging from 0 to 200.
+
+Your program should read the input from the file, and output the answer to another file. The
+The first argument is the input file name, while the second is the output file name.
+Name your program as “q3.c”.
+
+Input file: First line, an integer N, indicates the tree's number of nodes. Following n - 1
+lines, p n, two integers, node p is the parent of node n. The p in line 2 is the root of the tree.
+Last line, a b, two integers, find the lowest common ancestor of node a and node b.
+
+Output file: An integer, l, indicates the lowest common ancestor of node a and node b.
+
+Sample Input:
+2
+0 1
+0 1
+
+Sample Output:
+0
