@@ -1,4 +1,4 @@
-#include "lab5-q1.h"
+#include "q1.h"
 #include <limits.h>
 #include <stdio.h>
 #include <stdlib.h>
